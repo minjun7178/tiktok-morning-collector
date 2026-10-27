@@ -1,0 +1,82 @@
+{
+  "schema_version": 1,
+  "shop_id": "8651858975596646872",
+  "shop_name": "CELDYQUE",
+  "ads_account": "celdyque2",
+  "customer_badge_confirmed": true,
+  "schedule": {
+    "timezone": "Asia/Seoul",
+    "weekdays": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "start_time": "08:40"
+  },
+  "campaigns": [
+    {
+      "key": "bundle",
+      "label": "보루피린 번들",
+      "name": "보루피린번들 gmv max pro",
+      "id": "1874630976883745"
+    },
+    {
+      "key": "single",
+      "label": "보루피린 단품",
+      "name": "보루피린 단품 gmv max pro",
+      "id": "1874722010459665"
+    },
+    {
+      "key": "copper",
+      "label": "카퍼펩",
+      "name": "카퍼펩 0.8",
+      "id": "1874994241929474"
+    }
+  ],
+  "products": [
+    {
+      "key": "bundle",
+      "label": "보루피린 번들",
+      "id": "1731757173019480536",
+      "sharing": true,
+      "voc": true,
+      "views": false
+    },
+    {
+      "key": "single",
+      "label": "보루피린 단품",
+      "id": "1731569144571924952",
+      "sharing": true,
+      "voc": true,
+      "views": false
+    },
+    {
+      "key": "hair",
+      "label": "헤어세럼",
+      "id": "1732306612274368984",
+      "sharing": true,
+      "voc": true,
+      "views": false
+    },
+    {
+      "key": "pdrn",
+      "label": "PDRN 듀오",
+      "id": "1732137742457147864",
+      "sharing": true,
+      "voc": false,
+      "views": false
+    },
+    {
+      "key": "copper",
+      "label": "카퍼펩",
+      "id": "1732507686646485464",
+      "sharing": true,
+      "voc": true,
+      "views": true
+    }
+  ]
+}

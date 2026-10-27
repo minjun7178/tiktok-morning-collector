@@ -1,0 +1,9 @@
+.local/
+outputs/*
+!outputs/.gitkeep
+node_modules/
+.env
+.env.*
+*.log
+*.zip
+__pycache__/

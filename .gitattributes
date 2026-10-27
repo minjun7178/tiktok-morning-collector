@@ -1,0 +1,11 @@
+* text=auto
+*.mjs text eol=lf
+*.json text eol=lf
+*.md text eol=lf
+.gitattributes text eol=lf
+.gitignore text eol=lf
+lib/core.mjs -text whitespace=cr-at-eol
+lib/storage.mjs -text whitespace=cr-at-eol
+test/upstream-core.test.mjs -text whitespace=cr-at-eol
+scripts/measure-distance.mjs -text whitespace=cr-at-eol
+profiles/celdyque.json -text whitespace=cr-at-eol

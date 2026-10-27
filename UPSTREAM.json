@@ -1,0 +1,50 @@
+{
+  "source_repository": "https://github.com/minjun7178/DEV_CELDYQUE",
+  "workspace_head": "d1fadb417fecf64fc259be604fef2b5fc6cd244c",
+  "copied_on_kst": "2026-10-27",
+  "note": "Copied from current working files. Core/storage/tests/calculator and identifier-only profile are byte-exact; references use portable paths and exclude unsupported legacy replay. No authentication or collected data included.",
+  "files": [
+    {
+      "source": "tiktok_api/morning_report/lib/core.mjs",
+      "destination": "lib/core.mjs",
+      "unchanged": true,
+      "sha256": "25018ccb26b2bbab7ad412c798c7e760d11d3f476857fc300ff93388e83db0dc"
+    },
+    {
+      "source": "tiktok_api/morning_report/lib/storage.mjs",
+      "destination": "lib/storage.mjs",
+      "unchanged": true,
+      "sha256": "3d5cc1a1999ce6fa72abfd76e8bc2186a3eade4bd673b96de4e67d86fb3da24f"
+    },
+    {
+      "source": "tiktok_api/morning_report/test/core.test.mjs",
+      "destination": "test/upstream-core.test.mjs",
+      "unchanged": true,
+      "sha256": "c7e4a83e07be1941845d9a04a628899316ecbd66a298bf5ee59723ded2487a3d"
+    },
+    {
+      "source": "artifacts/captcha-slider-test-2026-10-08/measure-distance.mjs",
+      "destination": "scripts/measure-distance.mjs",
+      "unchanged": true,
+      "sha256": "3b38d1e45c0c8db1a6e37bf0e5e60a87396aa90dad8574bd2076a60a72354d9e"
+    },
+    {
+      "source": ".agents/skills/tiktok-morning-report/references/collection.md",
+      "destination": ".agents/skills/tiktok-morning-collector/references/collection.md",
+      "unchanged": false,
+      "sha256": "57bc901a2d583081e1d49ff13edaa6a26fde6c9098526ff8a55cba868b8f9847"
+    },
+    {
+      "source": ".agents/skills/tiktok-morning-report/references/captcha-recovery.md",
+      "destination": ".agents/skills/tiktok-morning-collector/references/captcha-recovery.md",
+      "unchanged": false,
+      "sha256": "76c520bd57f6b1d5f1a908ca071f918a477fa3e7e8c94f6456ce4177e6f29dea"
+    },
+    {
+      "source": "tiktok_api/morning_report/.local/config.json",
+      "destination": "profiles/celdyque.json",
+      "unchanged": true,
+      "sha256": "1a77880a2a106829aad202e9017ac7af220b9196d7fa674edcabe0e1c4849fe0"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "celdyque-tiktok-morning-collector",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Windows Codex collection of the CELDYQUE v4 23 metrics into one portable JSON file",
+  "engines": { "node": ">=22.14" },
+  "scripts": {
+    "init": "node scripts/collect.mjs init",
+    "doctor": "node scripts/collect.mjs doctor",
+    "begin": "node scripts/collect.mjs begin",
+    "finish": "node scripts/collect.mjs finish",
+    "verify": "node scripts/collect.mjs verify",
+    "test": "node --test test/*.test.mjs"
+  }
+}
